@@ -7,19 +7,19 @@ const app = Vue.createApp({
           {
             title: 'book 1 title',
             author: 'book 1 author',
-            img: 'assets/1.jpg',
+            img: 'asset/1.jpg',
             isFav: true
           },
           {
             title: 'book 2 title',
             author: 'book 2 author',
-            img: 'assets/2.jpg',
+            img: 'asset/2.jpg',
             isFav: false
           },
           {
             title: 'book 3 title',
             author: 'book 3 author',
-            img: 'assets/3.jpg',
+            img: 'asset/3.jpg',
             isFav: false,
           }
         ]
